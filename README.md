@@ -5,4 +5,4 @@ Acholi, Alur, Aringa, Ateso, Ganda, Gwere, Jopadhola, Kakwa, Kinyarwanda, Kumam,
 # Contributors
 @allandclive & @oumo_os
 # Huggingface
-[https://huggingface.co/datasets/allandclive/UgandaLex]
+[UgandaLex](https://huggingface.co/datasets/allandclive/UgandaLex)
